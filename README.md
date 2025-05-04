@@ -1,4 +1,3 @@
-<!-- Banner -->
 <img src="https://www.datocms-assets.com/21211/1589191977-cover.jpg?auto=format&w=1100" alt="banner" width="100%"/>
 
 <h1 align="center">👋 Merhaba, ben Berat Arslan</h1>
@@ -64,5 +63,3 @@
 ---
 
 > 🧠 “Her gün bir şey öğren, sonra onu birine öğret.”  
-> – Senin staj patronun olarak benden beklemen gereken şey de bu. Hadi şimdi üretmeye devam! 💻🚀
-
