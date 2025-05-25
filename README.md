@@ -1,7 +1,7 @@
 <img src="https://www.datocms-assets.com/21211/1589191977-cover.jpg?auto=format&w=1100" alt="banner" width="100%"/>
 
 <h1 align="center">👋 Merhaba, ben Berat Arslan</h1>
-<h3 align="center">Full Stack & Mobil Uygulama</h3>
+<h3 align="center">JavaScript & Mobil Uygulama</h3>
 
 ---
 
