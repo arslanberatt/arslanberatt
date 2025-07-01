@@ -1,14 +1,12 @@
-<img src="https://www.datocms-assets.com/21211/1589191977-cover.jpg?auto=format&w=1100" alt="banner" width="100%"/>
-
 <h1 align="center">👋 Merhaba, ben Berat Arslan</h1>
-<h3 align="center">JavaScript & Mobil Uygulama</h3>
+<h3 align="center">JavaScript & Mobil Yazılımcı</h3>
 
 ---
 
 ## 🚀 Hakkımda
 
-- 🎯 Junior geliştiriciyim ve JavaScript ile full-stack projeler geliştiriyorum.
-- 💡 React, React Native, Flutter, Node.js, Express, MongoDB ve GraphQL üzerine çalışıyorum.
+- 🎯 Mobil geliştiriciyim ve JavaScript ile full-stack projeler geliştiriyorum.
+- 💡 React, Flutter, Flutter, Node.js, Express, MongoDB ve GraphQL üzerine çalışıyorum.
 - 📱 Mobil ve web uygulama geliştirme tutkunu bir yazılımcıyım.
 - 🎨 Kullanıcı dostu, sade ve performans odaklı arayüzler geliştirmeyi önemsiyorum.
 - 📚 Öğrenmeye açık, çözüm odaklı ve üretkenim.
