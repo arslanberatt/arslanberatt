@@ -44,20 +44,4 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslanberatt&show_icons=true&locale=en&layout=compact" alt="arslanberatt" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arslanberatt&show_icons=true&locale=en" alt="arslanberatt" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanberatt" alt="arslanberatt" />
-</p>
-
----
-
-> 🧠 “Her gün bir şey öğren, sonra onu birine öğret.”  
+> 🧠 “Biraz daha inan.”  
